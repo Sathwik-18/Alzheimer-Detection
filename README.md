@@ -8,6 +8,7 @@
 
 What you can do:
 
+
 * Upload EEG data (secure and anonymous)
 * Get quick predictions from our AI
 * Download detailed reports based on your role (patient, clinician, or technician)
